@@ -9,8 +9,8 @@ A Rust program for generating augmented DNA sequences from FASTA files using var
   - Sequence chunks
   - Centered windows
   - Truncations (beginning, end, random)
-  - Synonymous codon variants
-- Reverse complement generation (for coding sequences only)
+  - Synonymous codon variants (for coding sequences only)
+- Reverse complement generation 
 - Custom genetic code support
 - Parallel processing
 - FASTA format input/output
